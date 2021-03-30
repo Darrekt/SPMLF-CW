@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 inspiration.ipynb
+seb.ipynb
 
 # C extensions
 *.so
