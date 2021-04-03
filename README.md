@@ -1,5 +1,11 @@
 # README
 
+## TODO
+
+- 2.4 is sus as fuck
+  - Using complete market returns in the denominator but dropna'd ones in numerator
+- 3.2 Solve MV optimisation
+
 ## Resources
 
 ## Python Data Science Basics
