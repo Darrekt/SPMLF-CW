@@ -2,20 +2,6 @@
 
 Lau Jun Kit Darrick, dl5215, 01112514
 
-## TODO
-
-- [x] Check numerical answers for 2.1 - 2.3
-- [] Section 2 from 2.3 is not done
-- [] Section 2: Using complete market returns in the denominator but dropna'd ones in numerator
-- [x] Section 3: Negative variance? (used the wrong one)
-- [x] Standardise section headings: 1 cell per subheading
-
-- [] Fold in feedback for section 1
-- [] Section 2
-- [x] Section 3
-- [x] Section 4
-- [] Section 5
-
 ## Resources
 
 ### Pandas / Numpy
