@@ -2,6 +2,15 @@
 
 Lau Jun Kit Darrick, dl5215, 01112514
 
+## TODO
+
+- [ ] Center and label all equations
+- [ ] Finish section 3 theory
+- [ ] Finish section 5
+- [ ] Use rolling ranges for 4.1
+- [ ] Check Jarque Bera and VAR detrending
+- [ ] Format solutions for 2
+
 ## Resources
 
 ### Pandas / Numpy
