@@ -2,11 +2,6 @@
 
 Lau Jun Kit Darrick, dl5215, 01112514
 
-## TODO
-
-- [ ] Finish section 5
-- [ ] Check Jarque Bera and VAR detrending
-
 ## Resources
 
 ### Pandas / Numpy
